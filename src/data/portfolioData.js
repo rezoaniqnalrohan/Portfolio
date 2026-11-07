@@ -1,14 +1,14 @@
 export const portfolioData = {
   profile: {
-    name: 'Alex Rivera',
+    name: 'Rezoan Iqbal Rohan',
     role: 'Frontend Engineer & Product Designer',
     location: 'San Francisco, CA',
     availability: 'Available for select roles & projects',
     headline: 'Crafting thoughtful digital interfaces with clarity, precision, and care.',
     bio: 'I specialize in building accessible, high-performance web applications using React and modern web standards. With a background bridging engineering and editorial design, I focus on systems that feel effortless to use.',
-    email: 'hello@alexrivera.dev',
+    email: 'rezoaniqbalrohan@gmail.com',
     socials: [
-      { label: 'GitHub', url: 'https://github.com' },
+      { label: 'GitHub', url: 'https://github.com/rezoaniqnalrohan' },
       { label: 'LinkedIn', url: 'https://linkedin.com' },
       { label: 'X / Twitter', url: 'https://x.com' },
     ],
